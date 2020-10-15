@@ -1,1 +1,20 @@
-theme: jekyll-theme-merlot
+title: Official Japan Meetup for Neural Information Processing Systems 2020
+description: > # this means to ignore newlines until "baseurl:"
+  Official Japan Meetup for Neural Information Processing Systems 2020<br>
+baseurl: "/neurips_japan" # the subpath of your site, e.g. /blog
+url: "https://gearons.org" # the base hostname 
+
+
+author:
+  name: 'Hoang'
+  last_name: 'NT'
+  cv: ''
+  avatar: ''
+  github_username: gear
+  logo: '/images/jneurips.svg'
+
+# Build settings
+markdown: kramdown
+
+permalink: /:categories/:title.html
+
